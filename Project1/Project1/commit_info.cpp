@@ -2,11 +2,11 @@
 using namespace std;
 //单行注释内容
 
-/*多行注释
-内容
+/*
+多行注释内容
+main函数是程序的入口
+项目中main只能有一个，不能含有同名函数
 */
-
-//项目中main只能有一个，不能含有同名函数
 int main2()
 {
 	//输出commit info

@@ -13,16 +13,25 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\第一章_初识">
+      <UniqueIdentifier>{9b767212-9f18-4168-a188-5ba0fe26c0b8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hello_world.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="variation.cpp">
+      <Filter>源文件\第一章_初识</Filter>
     </ClCompile>
     <ClCompile Include="commit_info.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第一章_初识</Filter>
     </ClCompile>
-    <ClCompile Include="variation.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="constant.cpp">
+      <Filter>源文件\第一章_初识</Filter>
+    </ClCompile>
+    <ClCompile Include="hello_world.cpp">
+      <Filter>源文件\第一章_初识</Filter>
+    </ClCompile>
+    <ClCompile Include="keywrod_and_namerule.cpp">
+      <Filter>源文件\第一章_初识</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

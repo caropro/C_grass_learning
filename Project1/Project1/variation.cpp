@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int main()
+int main3()
 {
 	//声明变量，整数a
 	/*
