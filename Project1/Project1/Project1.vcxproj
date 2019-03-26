@@ -123,7 +123,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="commit_info.cpp" />
     <ClCompile Include="hello_world.cpp" />
+    <ClCompile Include="variation.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

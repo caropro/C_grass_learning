@@ -18,5 +18,11 @@
     <ClCompile Include="hello_world.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="commit_info.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="variation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
