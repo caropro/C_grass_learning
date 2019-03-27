@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int main5_6()
 {
 	//int int =10;不能用关键字来定义变量，或者常量
 

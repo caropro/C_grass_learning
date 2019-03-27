@@ -123,10 +123,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="backslash_转义符_lof_11.cpp" />
+    <ClCompile Include="char_lof_10.cpp" />
     <ClCompile Include="commit_info.cpp" />
     <ClCompile Include="constant.cpp" />
+    <ClCompile Include="data_type_1.cpp" />
+    <ClCompile Include="float_double_lof_9.cpp" />
     <ClCompile Include="hello_world.cpp" />
     <ClCompile Include="keywrod_and_namerule.cpp" />
+    <ClCompile Include="sizeof_lof_8.cpp" />
+    <ClCompile Include="string_char_lof_12.cpp" />
     <ClCompile Include="variation.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -33,5 +33,23 @@
     <ClCompile Include="keywrod_and_namerule.cpp">
       <Filter>源文件\第一章_初识</Filter>
     </ClCompile>
+    <ClCompile Include="data_type_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="float_double_lof_9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sizeof_lof_8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="char_lof_10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="backslash_转义符_lof_11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string_char_lof_12.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
