@@ -124,7 +124,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="backslash_转义符_lof_11.cpp" />
+    <ClCompile Include="bool_lof_13.cpp" />
     <ClCompile Include="char_lof_10.cpp" />
+    <ClCompile Include="cin_lof_14.cpp" />
     <ClCompile Include="commit_info.cpp" />
     <ClCompile Include="constant.cpp" />
     <ClCompile Include="data_type_1.cpp" />

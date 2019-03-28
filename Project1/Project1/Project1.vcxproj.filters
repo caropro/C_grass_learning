@@ -16,6 +16,9 @@
     <Filter Include="源文件\第一章_初识">
       <UniqueIdentifier>{9b767212-9f18-4168-a188-5ba0fe26c0b8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第二章_数据类型">
+      <UniqueIdentifier>{8f7d1063-0849-4bdf-92c2-ea5ee4d1478b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="variation.cpp">
@@ -33,23 +36,29 @@
     <ClCompile Include="keywrod_and_namerule.cpp">
       <Filter>源文件\第一章_初识</Filter>
     </ClCompile>
-    <ClCompile Include="data_type_1.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="backslash_转义符_lof_11.cpp">
+      <Filter>源文件\第二章_数据类型</Filter>
     </ClCompile>
-    <ClCompile Include="float_double_lof_9.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="sizeof_lof_8.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="bool_lof_13.cpp">
+      <Filter>源文件\第二章_数据类型</Filter>
     </ClCompile>
     <ClCompile Include="char_lof_10.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第二章_数据类型</Filter>
     </ClCompile>
-    <ClCompile Include="backslash_转义符_lof_11.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="cin_lof_14.cpp">
+      <Filter>源文件\第二章_数据类型</Filter>
+    </ClCompile>
+    <ClCompile Include="data_type_1.cpp">
+      <Filter>源文件\第二章_数据类型</Filter>
+    </ClCompile>
+    <ClCompile Include="float_double_lof_9.cpp">
+      <Filter>源文件\第二章_数据类型</Filter>
+    </ClCompile>
+    <ClCompile Include="sizeof_lof_8.cpp">
+      <Filter>源文件\第二章_数据类型</Filter>
     </ClCompile>
     <ClCompile Include="string_char_lof_12.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第二章_数据类型</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
