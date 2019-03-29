@@ -1,2 +1,2 @@
-﻿  cin_lof_14.cpp
-  Project1.vcxproj -> D:\C_grass_learning\Project1\Debug\Project1.exe
+﻿  calculate_lof_16.cpp
+D:\C_grass_learning\Project1\Project1\calculate_lof_16.cpp(14): error C2297: “%”: 非法，右操作数包含“float”类型

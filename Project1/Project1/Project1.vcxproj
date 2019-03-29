@@ -125,6 +125,9 @@
   <ItemGroup>
     <ClCompile Include="backslash_转义符_lof_11.cpp" />
     <ClCompile Include="bool_lof_13.cpp" />
+    <ClCompile Include="calculate_lof_15.cpp" />
+    <ClCompile Include="calculate_lof_16.cpp" />
+    <ClCompile Include="calculate_lof_17.cpp" />
     <ClCompile Include="char_lof_10.cpp" />
     <ClCompile Include="cin_lof_14.cpp" />
     <ClCompile Include="commit_info.cpp" />
