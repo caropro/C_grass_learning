@@ -128,6 +128,8 @@
     <ClCompile Include="calculate_lof_15.cpp" />
     <ClCompile Include="calculate_lof_16.cpp" />
     <ClCompile Include="calculate_lof_17.cpp" />
+    <ClCompile Include="calculate_lof_19.cpp" />
+    <ClCompile Include="calculate_lof_20.cpp" />
     <ClCompile Include="char_lof_10.cpp" />
     <ClCompile Include="cin_lof_14.cpp" />
     <ClCompile Include="commit_info.cpp" />
@@ -139,6 +141,7 @@
     <ClCompile Include="sizeof_lof_8.cpp" />
     <ClCompile Include="string_char_lof_12.cpp" />
     <ClCompile Include="variation.cpp" />
+    <ClCompile Include="calculate_lof_18.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -72,5 +72,14 @@
     <ClCompile Include="calculate_lof_17.cpp">
       <Filter>源文件\第三章_运算符</Filter>
     </ClCompile>
+    <ClCompile Include="calculate_lof_18.cpp">
+      <Filter>源文件\第三章_运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="calculate_lof_19.cpp">
+      <Filter>源文件\第三章_运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="calculate_lof_20.cpp">
+      <Filter>源文件\第三章_运算符</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
