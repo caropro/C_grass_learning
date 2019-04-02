@@ -22,6 +22,9 @@
     <Filter Include="源文件\第三章_运算符">
       <UniqueIdentifier>{214cc628-bb04-40e4-b2a8-3c15abb6ab34}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第四章_程序流程结构">
+      <UniqueIdentifier>{b6a14db2-49ea-449e-b46f-b01ba51cc107}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="variation.cpp">
@@ -80,6 +83,18 @@
     </ClCompile>
     <ClCompile Include="calculate_lof_20.cpp">
       <Filter>源文件\第三章_运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="if_else_lof_21.cpp">
+      <Filter>源文件\第四章_程序流程结构</Filter>
+    </ClCompile>
+    <ClCompile Include="if_in_if_lof_22.cpp">
+      <Filter>源文件\第四章_程序流程结构</Filter>
+    </ClCompile>
+    <ClCompile Include="threePigs_lof_23.cpp">
+      <Filter>源文件\第四章_程序流程结构</Filter>
+    </ClCompile>
+    <ClCompile Include="conditional_operator_lof_24.cpp">
+      <Filter>源文件\第四章_程序流程结构</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

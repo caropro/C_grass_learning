@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{460714E5-516A-4268-B5D5-43FE9C0737B5}</ProjectGuid>
-    <RootNamespace>Project1</RootNamespace>
+    <ProjectGuid>{53632DA7-D854-44DA-B8A1-64B95DED21B6}</ProjectGuid>
+    <RootNamespace>Project2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,29 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="backslash_转义符_lof_11.cpp" />
-    <ClCompile Include="bool_lof_13.cpp" />
-    <ClCompile Include="calculate_lof_15.cpp" />
-    <ClCompile Include="calculate_lof_16.cpp" />
-    <ClCompile Include="calculate_lof_17.cpp" />
-    <ClCompile Include="calculate_lof_19.cpp" />
-    <ClCompile Include="calculate_lof_20.cpp" />
-    <ClCompile Include="char_lof_10.cpp" />
-    <ClCompile Include="cin_lof_14.cpp" />
-    <ClCompile Include="commit_info.cpp" />
-    <ClCompile Include="conditional_operator_lof_24.cpp" />
-    <ClCompile Include="constant.cpp" />
-    <ClCompile Include="data_type_1.cpp" />
-    <ClCompile Include="float_double_lof_9.cpp" />
-    <ClCompile Include="hello_world.cpp" />
-    <ClCompile Include="if_else_lof_21.cpp" />
-    <ClCompile Include="if_in_if_lof_22.cpp" />
-    <ClCompile Include="keywrod_and_namerule.cpp" />
-    <ClCompile Include="sizeof_lof_8.cpp" />
-    <ClCompile Include="string_char_lof_12.cpp" />
-    <ClCompile Include="threePigs_lof_23.cpp" />
-    <ClCompile Include="variation.cpp" />
-    <ClCompile Include="calculate_lof_18.cpp" />
+    <ClCompile Include="tmp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
