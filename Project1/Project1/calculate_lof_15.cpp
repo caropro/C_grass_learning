@@ -4,8 +4,8 @@ using namespace std;
 int main_15()
 {
 	//加减乘除基本运算
-	int a = 10;
-	int b = 4;
+	int a = 53;
+	int b = 10;
 	//整型之间的运算
 	cout << "a+b=" << a + b << endl;
 	cout << "a-b=" << a - b << endl;

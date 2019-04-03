@@ -108,5 +108,29 @@
     <ClCompile Include="do_while_lof_28.cpp">
       <Filter>源文件\第四章_程序流程结构</Filter>
     </ClCompile>
+    <ClCompile Include="Narcissistic_number_lof_29.cpp">
+      <Filter>源文件\第四章_程序流程结构</Filter>
+    </ClCompile>
+    <ClCompile Include="for_lof_30.cpp">
+      <Filter>源文件\第四章_程序流程结构</Filter>
+    </ClCompile>
+    <ClCompile Include="knock_knock_lof_31.cpp">
+      <Filter>源文件\第四章_程序流程结构</Filter>
+    </ClCompile>
+    <ClCompile Include="iteration_lof_32.cpp">
+      <Filter>源文件\第四章_程序流程结构</Filter>
+    </ClCompile>
+    <ClCompile Include="乘法口诀表_lof_33.cpp">
+      <Filter>源文件\第四章_程序流程结构</Filter>
+    </ClCompile>
+    <ClCompile Include="break_lof_34.cpp">
+      <Filter>源文件\第四章_程序流程结构</Filter>
+    </ClCompile>
+    <ClCompile Include="continue_lof_35.cpp">
+      <Filter>源文件\第四章_程序流程结构</Filter>
+    </ClCompile>
+    <ClCompile Include="goto_lof_36.cpp">
+      <Filter>源文件\第四章_程序流程结构</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
