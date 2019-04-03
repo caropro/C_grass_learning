@@ -136,6 +136,7 @@
     <ClCompile Include="conditional_operator_lof_24.cpp" />
     <ClCompile Include="constant.cpp" />
     <ClCompile Include="data_type_1.cpp" />
+    <ClCompile Include="do_while_lof_28.cpp" />
     <ClCompile Include="float_double_lof_9.cpp" />
     <ClCompile Include="guess_num_lof_27.cpp" />
     <ClCompile Include="hello_world.cpp" />

@@ -3,7 +3,7 @@ using namespace std;
 //为了使用time需要包含头文件
 #include <ctime>
 
-int main()
+int main_27()
 {
 	//猜数字
 	//产生一个范围内的随机数字

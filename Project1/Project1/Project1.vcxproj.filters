@@ -105,5 +105,8 @@
     <ClCompile Include="guess_num_lof_27.cpp">
       <Filter>源文件\第四章_程序流程结构</Filter>
     </ClCompile>
+    <ClCompile Include="do_while_lof_28.cpp">
+      <Filter>源文件\第四章_程序流程结构</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
