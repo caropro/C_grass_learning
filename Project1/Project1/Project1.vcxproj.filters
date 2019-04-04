@@ -25,6 +25,9 @@
     <Filter Include="源文件\第四章_程序流程结构">
       <UniqueIdentifier>{b6a14db2-49ea-449e-b46f-b01ba51cc107}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第五章_数组">
+      <UniqueIdentifier>{06fe98b5-1185-4bb4-a8ad-93f7681ec0b8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="variation.cpp">
@@ -37,9 +40,6 @@
       <Filter>源文件\第一章_初识</Filter>
     </ClCompile>
     <ClCompile Include="hello_world.cpp">
-      <Filter>源文件\第一章_初识</Filter>
-    </ClCompile>
-    <ClCompile Include="keywrod_and_namerule.cpp">
       <Filter>源文件\第一章_初识</Filter>
     </ClCompile>
     <ClCompile Include="backslash_转义符_lof_11.cpp">
@@ -131,6 +131,12 @@
     </ClCompile>
     <ClCompile Include="goto_lof_36.cpp">
       <Filter>源文件\第四章_程序流程结构</Filter>
+    </ClCompile>
+    <ClCompile Include="keyword_and_namerule.cpp">
+      <Filter>源文件\第一章_初识</Filter>
+    </ClCompile>
+    <ClCompile Include="array_define_lof_37.cpp">
+      <Filter>源文件\第五章_数组</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
