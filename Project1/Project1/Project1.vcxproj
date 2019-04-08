@@ -123,10 +123,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="array_2devision_lof_42.cpp" />
     <ClCompile Include="array_define_lof_37.cpp" />
+    <ClCompile Include="array_name_lof_38.cpp" />
     <ClCompile Include="backslash_转义符_lof_11.cpp" />
     <ClCompile Include="bool_lof_13.cpp" />
     <ClCompile Include="break_lof_34.cpp" />
+    <ClCompile Include="bubble_lof_41.cpp" />
     <ClCompile Include="calculate_lof_15.cpp" />
     <ClCompile Include="calculate_lof_16.cpp" />
     <ClCompile Include="calculate_lof_17.cpp" />
@@ -151,14 +154,18 @@
     <ClCompile Include="keyword_and_namerule.cpp" />
     <ClCompile Include="knock_knock_lof_31.cpp" />
     <ClCompile Include="Narcissistic_number_lof_29.cpp" />
+    <ClCompile Include="pig_weight_lof_39.cpp" />
+    <ClCompile Include="reverse_lof_40.cpp" />
     <ClCompile Include="sizeof_lof_8.cpp" />
     <ClCompile Include="string_char_lof_12.cpp" />
     <ClCompile Include="switch_lof_25.cpp" />
     <ClCompile Include="threePigs_lof_23.cpp" />
+    <ClCompile Include="total_score_lof_44.cpp" />
     <ClCompile Include="variation.cpp" />
     <ClCompile Include="calculate_lof_18.cpp" />
     <ClCompile Include="while_lof_26.cpp" />
     <ClCompile Include="乘法口诀表_lof_33.cpp" />
+    <ClCompile Include="array_2devision_name_lof_43.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

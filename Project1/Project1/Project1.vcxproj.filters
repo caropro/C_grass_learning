@@ -138,5 +138,26 @@
     <ClCompile Include="array_define_lof_37.cpp">
       <Filter>源文件\第五章_数组</Filter>
     </ClCompile>
+    <ClCompile Include="array_name_lof_38.cpp">
+      <Filter>源文件\第五章_数组</Filter>
+    </ClCompile>
+    <ClCompile Include="pig_weight_lof_39.cpp">
+      <Filter>源文件\第五章_数组</Filter>
+    </ClCompile>
+    <ClCompile Include="reverse_lof_40.cpp">
+      <Filter>源文件\第五章_数组</Filter>
+    </ClCompile>
+    <ClCompile Include="bubble_lof_41.cpp">
+      <Filter>源文件\第五章_数组</Filter>
+    </ClCompile>
+    <ClCompile Include="array_2devision_lof_42.cpp">
+      <Filter>源文件\第五章_数组</Filter>
+    </ClCompile>
+    <ClCompile Include="array_2devision_name_lof_43.cpp">
+      <Filter>源文件\第五章_数组</Filter>
+    </ClCompile>
+    <ClCompile Include="total_score_lof_44.cpp">
+      <Filter>源文件\第五章_数组</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
