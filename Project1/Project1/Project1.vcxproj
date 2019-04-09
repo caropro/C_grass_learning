@@ -142,9 +142,14 @@
     <ClCompile Include="constant.cpp" />
     <ClCompile Include="continue_lof_35.cpp" />
     <ClCompile Include="data_type_1.cpp" />
+    <ClCompile Include="declare_defind_lof_48.cpp" />
+    <ClCompile Include="define_function_lof_45.cpp" />
+    <ClCompile Include="diff_file.cpp" />
+    <ClCompile Include="diff_file_run.cpp" />
     <ClCompile Include="do_while_lof_28.cpp" />
     <ClCompile Include="float_double_lof_9.cpp" />
     <ClCompile Include="for_lof_30.cpp" />
+    <ClCompile Include="function_usual_lof_47.cpp" />
     <ClCompile Include="goto_lof_36.cpp" />
     <ClCompile Include="guess_num_lof_27.cpp" />
     <ClCompile Include="hello_world.cpp" />
@@ -161,11 +166,15 @@
     <ClCompile Include="switch_lof_25.cpp" />
     <ClCompile Include="threePigs_lof_23.cpp" />
     <ClCompile Include="total_score_lof_44.cpp" />
+    <ClCompile Include="value_swap_lof_46.cpp" />
     <ClCompile Include="variation.cpp" />
     <ClCompile Include="calculate_lof_18.cpp" />
     <ClCompile Include="while_lof_26.cpp" />
     <ClCompile Include="乘法口诀表_lof_33.cpp" />
     <ClCompile Include="array_2devision_name_lof_43.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="diff_file.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

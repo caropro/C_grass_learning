@@ -28,6 +28,12 @@
     <Filter Include="源文件\第五章_数组">
       <UniqueIdentifier>{06fe98b5-1185-4bb4-a8ad-93f7681ec0b8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第六章_函数">
+      <UniqueIdentifier>{1cbdab8c-16c9-4d8f-9db3-63836a0290da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第六章_函数\different_file_lof_49">
+      <UniqueIdentifier>{c7e5a95d-5a08-4b28-87a6-d29b0d9bd7da}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="variation.cpp">
@@ -159,5 +165,28 @@
     <ClCompile Include="total_score_lof_44.cpp">
       <Filter>源文件\第五章_数组</Filter>
     </ClCompile>
+    <ClCompile Include="define_function_lof_45.cpp">
+      <Filter>源文件\第六章_函数</Filter>
+    </ClCompile>
+    <ClCompile Include="value_swap_lof_46.cpp">
+      <Filter>源文件\第六章_函数</Filter>
+    </ClCompile>
+    <ClCompile Include="function_usual_lof_47.cpp">
+      <Filter>源文件\第六章_函数</Filter>
+    </ClCompile>
+    <ClCompile Include="declare_defind_lof_48.cpp">
+      <Filter>源文件\第六章_函数</Filter>
+    </ClCompile>
+    <ClCompile Include="diff_file.cpp">
+      <Filter>源文件\第六章_函数\different_file_lof_49</Filter>
+    </ClCompile>
+    <ClCompile Include="diff_file_run.cpp">
+      <Filter>源文件\第六章_函数\different_file_lof_49</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="diff_file.h">
+      <Filter>源文件\第六章_函数\different_file_lof_49</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
