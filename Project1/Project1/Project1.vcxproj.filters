@@ -34,6 +34,9 @@
     <Filter Include="源文件\第六章_函数\different_file_lof_49">
       <UniqueIdentifier>{c7e5a95d-5a08-4b28-87a6-d29b0d9bd7da}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第七章_指针">
+      <UniqueIdentifier>{f01f7d10-0a2b-4dd9-a5e9-226410332de2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="variation.cpp">
@@ -182,6 +185,27 @@
     </ClCompile>
     <ClCompile Include="diff_file_run.cpp">
       <Filter>源文件\第六章_函数\different_file_lof_49</Filter>
+    </ClCompile>
+    <ClCompile Include="point_lof_50.cpp">
+      <Filter>源文件\第七章_指针</Filter>
+    </ClCompile>
+    <ClCompile Include="point_lof_52.cpp">
+      <Filter>源文件\第七章_指针</Filter>
+    </ClCompile>
+    <ClCompile Include="point_size_lof_51.cpp">
+      <Filter>源文件\第七章_指针</Filter>
+    </ClCompile>
+    <ClCompile Include="point_const_lof_53.cpp">
+      <Filter>源文件\第七章_指针</Filter>
+    </ClCompile>
+    <ClCompile Include="point_and_arry_lof_54.cpp">
+      <Filter>源文件\第七章_指针</Filter>
+    </ClCompile>
+    <ClCompile Include="point_lof_55.cpp">
+      <Filter>源文件\第七章_指针</Filter>
+    </ClCompile>
+    <ClCompile Include="point_arry_function_lof_56.cpp">
+      <Filter>源文件\第七章_指针</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
