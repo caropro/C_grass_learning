@@ -37,6 +37,9 @@
     <Filter Include="源文件\第七章_指针">
       <UniqueIdentifier>{f01f7d10-0a2b-4dd9-a5e9-226410332de2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第八章_结构体">
+      <UniqueIdentifier>{28063208-b279-49e3-8de9-12cf34e3ce7d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="variation.cpp">
@@ -206,6 +209,30 @@
     </ClCompile>
     <ClCompile Include="point_arry_function_lof_56.cpp">
       <Filter>源文件\第七章_指针</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_lof_57.cpp">
+      <Filter>源文件\第八章_结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_array_lof_58.cpp">
+      <Filter>源文件\第八章_结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="point_of_struct_lof_59.cpp">
+      <Filter>源文件\第八章_结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_in_struct_lof_60.cpp">
+      <Filter>源文件\第八章_结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_in_fuction_lof_61.cpp">
+      <Filter>源文件\第八章_结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="const_struct_lof_62.cpp">
+      <Filter>源文件\第八章_结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_test_lof_63.cpp">
+      <Filter>源文件\第八章_结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_test_lof_64.cpp">
+      <Filter>源文件\第八章_结构体</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

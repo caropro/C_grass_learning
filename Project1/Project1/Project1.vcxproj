@@ -140,6 +140,7 @@
     <ClCompile Include="commit_info.cpp" />
     <ClCompile Include="conditional_operator_lof_24.cpp" />
     <ClCompile Include="constant.cpp" />
+    <ClCompile Include="const_struct_lof_62.cpp" />
     <ClCompile Include="continue_lof_35.cpp" />
     <ClCompile Include="data_type_1.cpp" />
     <ClCompile Include="declare_defind_lof_48.cpp" />
@@ -165,11 +166,18 @@
     <ClCompile Include="point_const_lof_53.cpp" />
     <ClCompile Include="point_lof_50.cpp" />
     <ClCompile Include="point_lof_55.cpp" />
+    <ClCompile Include="point_of_struct_lof_59.cpp" />
     <ClCompile Include="point_size_lof_51.cpp" />
     <ClCompile Include="point_lof_52.cpp" />
     <ClCompile Include="reverse_lof_40.cpp" />
     <ClCompile Include="sizeof_lof_8.cpp" />
     <ClCompile Include="string_char_lof_12.cpp" />
+    <ClCompile Include="struct_array_lof_58.cpp" />
+    <ClCompile Include="struct_in_fuction_lof_61.cpp" />
+    <ClCompile Include="struct_in_struct_lof_60.cpp" />
+    <ClCompile Include="struct_lof_57.cpp" />
+    <ClCompile Include="struct_test_lof_63.cpp" />
+    <ClCompile Include="struct_test_lof_64.cpp" />
     <ClCompile Include="switch_lof_25.cpp" />
     <ClCompile Include="threePigs_lof_23.cpp" />
     <ClCompile Include="total_score_lof_44.cpp" />
