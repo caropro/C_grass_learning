@@ -40,6 +40,9 @@
     <Filter Include="源文件\第八章_结构体">
       <UniqueIdentifier>{28063208-b279-49e3-8de9-12cf34e3ce7d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\通讯录练习">
+      <UniqueIdentifier>{008b56b8-efe4-4c0e-86c6-76f28ed40595}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="variation.cpp">
@@ -233,6 +236,9 @@
     </ClCompile>
     <ClCompile Include="struct_test_lof_64.cpp">
       <Filter>源文件\第八章_结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="通讯录工具.cpp">
+      <Filter>源文件\通讯录练习</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
