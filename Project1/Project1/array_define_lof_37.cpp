@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int main_37()
 {
 	//数组三种定义形式
 	//1.数据类型 数组名[数组长度];
