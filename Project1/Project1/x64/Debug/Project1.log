@@ -1,1 +1,74 @@
-﻿
+﻿  array_2devision_lof_42.cpp
+  array_define_lof_37.cpp
+  array_name_lof_38.cpp
+D:\C_grass_learning\Project1\Project1\array_name_lof_38.cpp(16): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+D:\C_grass_learning\Project1\Project1\array_name_lof_38.cpp(16): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+D:\C_grass_learning\Project1\Project1\array_name_lof_38.cpp(18): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+D:\C_grass_learning\Project1\Project1\array_name_lof_38.cpp(18): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+D:\C_grass_learning\Project1\Project1\array_name_lof_38.cpp(19): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+D:\C_grass_learning\Project1\Project1\array_name_lof_38.cpp(19): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+  backslash_转义符_lof_11.cpp
+  bool_lof_13.cpp
+  break_lof_34.cpp
+  bubble_lof_41.cpp
+  calculate_lof_15.cpp
+  calculate_lof_16.cpp
+  calculate_lof_17.cpp
+  calculate_lof_19.cpp
+  calculate_lof_20.cpp
+  char_lof_10.cpp
+  cin_lof_14.cpp
+  commit_info.cpp
+  conditional_operator_lof_24.cpp
+  constant.cpp
+  continue_lof_35.cpp
+  data_type_1.cpp
+  declare_defind_lof_48.cpp
+  正在生成代码...
+  正在编译...
+  define_function_lof_45.cpp
+D:\C_grass_learning\Project1\Project1\define_function_lof_45.cpp(23): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+D:\C_grass_learning\Project1\Project1\define_function_lof_45.cpp(23): warning C4313: “printf”: 格式字符串中的“%s”与“int”类型的参数 1 冲突
+D:\C_grass_learning\Project1\Project1\define_function_lof_45.cpp(23): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“int”
+D:\C_grass_learning\Project1\Project1\define_function_lof_45.cpp(23): warning C4313: “printf”: 格式字符串中的“%s”与“int”类型的参数 2 冲突
+  diff_file.cpp
+  diff_file_run.cpp
+  do_while_lof_28.cpp
+  float_double_lof_9.cpp
+D:\C_grass_learning\Project1\Project1\float_double_lof_9.cpp(23): warning C4305: “初始化”: 从“double”到“float”截断
+  for_lof_30.cpp
+  function_usual_lof_47.cpp
+  goto_lof_36.cpp
+  guess_num_lof_27.cpp
+  hello_world.cpp
+  if_else_lof_21.cpp
+  if_in_if_lof_22.cpp
+  iteration_lof_32.cpp
+  keyword_and_namerule.cpp
+  knock_knock_lof_31.cpp
+  Narcissistic_number_lof_29.cpp
+  pig_weight_lof_39.cpp
+  point_lof_50.cpp
+  point_lof_51.cpp
+  reverse_lof_40.cpp
+  正在生成代码...
+  正在编译...
+  sizeof_lof_8.cpp
+  string_char_lof_12.cpp
+  switch_lof_25.cpp
+  threePigs_lof_23.cpp
+  total_score_lof_44.cpp
+  value_swap_lof_46.cpp
+  variation.cpp
+  calculate_lof_18.cpp
+  while_lof_26.cpp
+  乘法口诀表_lof_33.cpp
+  array_2devision_name_lof_43.cpp
+D:\C_grass_learning\Project1\Project1\array_2devision_name_lof_43.cpp(8): warning C4311: “类型强制转换”: 从“int (*)[3][3]”到“int”的指针截断
+D:\C_grass_learning\Project1\Project1\array_2devision_name_lof_43.cpp(8): warning C4302: “类型强制转换”: 从“int (*)[3][3]”到“int”截断
+D:\C_grass_learning\Project1\Project1\array_2devision_name_lof_43.cpp(9): warning C4311: “类型强制转换”: 从“int (*)[3]”到“int”的指针截断
+D:\C_grass_learning\Project1\Project1\array_2devision_name_lof_43.cpp(9): warning C4302: “类型强制转换”: 从“int (*)[3]”到“int”截断
+D:\C_grass_learning\Project1\Project1\array_2devision_name_lof_43.cpp(10): warning C4311: “类型强制转换”: 从“int (*)[3]”到“int”的指针截断
+D:\C_grass_learning\Project1\Project1\array_2devision_name_lof_43.cpp(10): warning C4302: “类型强制转换”: 从“int (*)[3]”到“int”截断
+  正在生成代码...
+  Project1.vcxproj -> D:\C_grass_learning\Project1\x64\Debug\Project1.exe
