@@ -180,6 +180,7 @@
     <ClCompile Include="struct_test_lof_63.cpp" />
     <ClCompile Include="struct_test_lof_64.cpp" />
     <ClCompile Include="switch_lof_25.cpp" />
+    <ClCompile Include="test.cpp" />
     <ClCompile Include="threePigs_lof_23.cpp" />
     <ClCompile Include="total_score_lof_44.cpp" />
     <ClCompile Include="value_swap_lof_46.cpp" />
