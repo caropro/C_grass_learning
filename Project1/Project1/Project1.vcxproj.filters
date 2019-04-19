@@ -48,15 +48,6 @@
     <ClCompile Include="variation.cpp">
       <Filter>源文件\第一章_初识</Filter>
     </ClCompile>
-    <ClCompile Include="commit_info.cpp">
-      <Filter>源文件\第一章_初识</Filter>
-    </ClCompile>
-    <ClCompile Include="constant.cpp">
-      <Filter>源文件\第一章_初识</Filter>
-    </ClCompile>
-    <ClCompile Include="hello_world.cpp">
-      <Filter>源文件\第一章_初识</Filter>
-    </ClCompile>
     <ClCompile Include="backslash_转义符_lof_11.cpp">
       <Filter>源文件\第二章_数据类型</Filter>
     </ClCompile>
@@ -147,9 +138,6 @@
     <ClCompile Include="goto_lof_36.cpp">
       <Filter>源文件\第四章_程序流程结构</Filter>
     </ClCompile>
-    <ClCompile Include="keyword_and_namerule.cpp">
-      <Filter>源文件\第一章_初识</Filter>
-    </ClCompile>
     <ClCompile Include="array_define_lof_37.cpp">
       <Filter>源文件\第五章_数组</Filter>
     </ClCompile>
@@ -239,6 +227,18 @@
     </ClCompile>
     <ClCompile Include="通讯录工具.cpp">
       <Filter>源文件\通讯录练习</Filter>
+    </ClCompile>
+    <ClCompile Include="hello_world_lof_1.cpp">
+      <Filter>源文件\第一章_初识</Filter>
+    </ClCompile>
+    <ClCompile Include="commit_info_lof_2.cpp">
+      <Filter>源文件\第一章_初识</Filter>
+    </ClCompile>
+    <ClCompile Include="constant_lof_3.cpp">
+      <Filter>源文件\第一章_初识</Filter>
+    </ClCompile>
+    <ClCompile Include="keyword_and_namerule_lof4.cpp">
+      <Filter>源文件\第一章_初识</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

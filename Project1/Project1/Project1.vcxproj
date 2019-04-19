@@ -138,9 +138,9 @@
     <ClCompile Include="calculate_lof_20.cpp" />
     <ClCompile Include="char_lof_10.cpp" />
     <ClCompile Include="cin_lof_14.cpp" />
-    <ClCompile Include="commit_info.cpp" />
+    <ClCompile Include="commit_info_lof_2.cpp" />
     <ClCompile Include="conditional_operator_lof_24.cpp" />
-    <ClCompile Include="constant.cpp" />
+    <ClCompile Include="constant_lof_3.cpp" />
     <ClCompile Include="const_struct_lof_62.cpp" />
     <ClCompile Include="continue_lof_35.cpp" />
     <ClCompile Include="data_type_1.cpp" />
@@ -154,11 +154,11 @@
     <ClCompile Include="function_usual_lof_47.cpp" />
     <ClCompile Include="goto_lof_36.cpp" />
     <ClCompile Include="guess_num_lof_27.cpp" />
-    <ClCompile Include="hello_world.cpp" />
+    <ClCompile Include="hello_world_lof_1.cpp" />
     <ClCompile Include="if_else_lof_21.cpp" />
     <ClCompile Include="if_in_if_lof_22.cpp" />
     <ClCompile Include="iteration_lof_32.cpp" />
-    <ClCompile Include="keyword_and_namerule.cpp" />
+    <ClCompile Include="keyword_and_namerule_lof4.cpp" />
     <ClCompile Include="knock_knock_lof_31.cpp" />
     <ClCompile Include="Narcissistic_number_lof_29.cpp" />
     <ClCompile Include="pig_weight_lof_39.cpp" />
