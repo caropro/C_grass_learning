@@ -45,9 +45,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="variation.cpp">
-      <Filter>源文件\第一章_初识</Filter>
-    </ClCompile>
     <ClCompile Include="backslash_转义符_lof_11.cpp">
       <Filter>源文件\第二章_数据类型</Filter>
     </ClCompile>
@@ -58,9 +55,6 @@
       <Filter>源文件\第二章_数据类型</Filter>
     </ClCompile>
     <ClCompile Include="cin_lof_14.cpp">
-      <Filter>源文件\第二章_数据类型</Filter>
-    </ClCompile>
-    <ClCompile Include="data_type_1.cpp">
       <Filter>源文件\第二章_数据类型</Filter>
     </ClCompile>
     <ClCompile Include="float_double_lof_9.cpp">
@@ -234,10 +228,16 @@
     <ClCompile Include="commit_info_lof_2.cpp">
       <Filter>源文件\第一章_初识</Filter>
     </ClCompile>
-    <ClCompile Include="constant_lof_3.cpp">
+    <ClCompile Include="data_type_lof_7.cpp">
+      <Filter>源文件\第二章_数据类型</Filter>
+    </ClCompile>
+    <ClCompile Include="keyword_and_namerule_lof_5_6.cpp">
       <Filter>源文件\第一章_初识</Filter>
     </ClCompile>
-    <ClCompile Include="keyword_and_namerule_lof4.cpp">
+    <ClCompile Include="constant_lof_4.cpp">
+      <Filter>源文件\第一章_初识</Filter>
+    </ClCompile>
+    <ClCompile Include="variation_lof_3.cpp">
       <Filter>源文件\第一章_初识</Filter>
     </ClCompile>
   </ItemGroup>

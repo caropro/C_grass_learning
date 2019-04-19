@@ -140,10 +140,10 @@
     <ClCompile Include="cin_lof_14.cpp" />
     <ClCompile Include="commit_info_lof_2.cpp" />
     <ClCompile Include="conditional_operator_lof_24.cpp" />
-    <ClCompile Include="constant_lof_3.cpp" />
+    <ClCompile Include="constant_lof_4.cpp" />
     <ClCompile Include="const_struct_lof_62.cpp" />
     <ClCompile Include="continue_lof_35.cpp" />
-    <ClCompile Include="data_type_1.cpp" />
+    <ClCompile Include="data_type_lof_7.cpp" />
     <ClCompile Include="declare_defind_lof_48.cpp" />
     <ClCompile Include="define_function_lof_45.cpp" />
     <ClCompile Include="diff_file.cpp" />
@@ -158,7 +158,7 @@
     <ClCompile Include="if_else_lof_21.cpp" />
     <ClCompile Include="if_in_if_lof_22.cpp" />
     <ClCompile Include="iteration_lof_32.cpp" />
-    <ClCompile Include="keyword_and_namerule_lof4.cpp" />
+    <ClCompile Include="keyword_and_namerule_lof_5_6.cpp" />
     <ClCompile Include="knock_knock_lof_31.cpp" />
     <ClCompile Include="Narcissistic_number_lof_29.cpp" />
     <ClCompile Include="pig_weight_lof_39.cpp" />
@@ -183,7 +183,7 @@
     <ClCompile Include="threePigs_lof_23.cpp" />
     <ClCompile Include="total_score_lof_44.cpp" />
     <ClCompile Include="value_swap_lof_46.cpp" />
-    <ClCompile Include="variation.cpp" />
+    <ClCompile Include="variation_lof_3.cpp" />
     <ClCompile Include="calculate_lof_18.cpp" />
     <ClCompile Include="while_lof_26.cpp" />
     <ClCompile Include="乘法口诀表_lof_33.cpp" />
