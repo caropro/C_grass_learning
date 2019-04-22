@@ -13,10 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\内存四区">
+      <UniqueIdentifier>{4ae9d494-ca13-489b-ae9e-dca0cda1695a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="lof_1.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="全局区_lof_1.cpp">
+      <Filter>源文件\内存四区</Filter>
+    </ClCompile>
+    <ClCompile Include="栈与堆_lof_2.cpp">
+      <Filter>源文件\内存四区</Filter>
+    </ClCompile>
+    <ClCompile Include="new操作符_lof_3.cpp">
+      <Filter>源文件\内存四区</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
