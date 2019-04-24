@@ -16,6 +16,9 @@
     <Filter Include="源文件\内存四区">
       <UniqueIdentifier>{4ae9d494-ca13-489b-ae9e-dca0cda1695a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\引用">
+      <UniqueIdentifier>{51486fcc-78d8-4434-bddb-a21300e9aeaa}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="全局区_lof_1.cpp">
@@ -26,6 +29,9 @@
     </ClCompile>
     <ClCompile Include="new操作符_lof_3.cpp">
       <Filter>源文件\内存四区</Filter>
+    </ClCompile>
+    <ClCompile Include="引用_lof_4.cpp">
+      <Filter>源文件\引用</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

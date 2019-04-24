@@ -35,7 +35,7 @@ void test2()
 	delete[] arr;
 }
 
-int main()
+int main_3()
 {
 
 	test();
