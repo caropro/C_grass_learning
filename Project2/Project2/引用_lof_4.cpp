@@ -29,7 +29,7 @@ void print_val(const int& a)
 	cout << "Êä³öÖµ£º" << a << endl;
 }
 
-int main()
+int main_4()
 {
 	int a = 10;
 	int& b = a;

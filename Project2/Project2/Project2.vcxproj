@@ -127,6 +127,7 @@
     <ClCompile Include="全局区_lof_1.cpp" />
     <ClCompile Include="引用_lof_4.cpp" />
     <ClCompile Include="栈与堆_lof_2.cpp" />
+    <ClCompile Include="函数提高.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
