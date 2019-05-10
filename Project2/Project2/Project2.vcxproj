@@ -123,11 +123,25 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="circle.cpp" />
+    <ClCompile Include="circle_point_lof_10.cpp" />
+    <ClCompile Include="cube_lof_9.cpp" />
     <ClCompile Include="new操作符_lof_3.cpp" />
     <ClCompile Include="全局区_lof_1.cpp" />
+    <ClCompile Include="分类与调用_lof_12.cpp" />
+    <ClCompile Include="圆形与学生信息示例_lof_6.cpp" />
     <ClCompile Include="引用_lof_4.cpp" />
+    <ClCompile Include="成员信息私有化_lof_8.cpp" />
+    <ClCompile Include="拷贝构造函数调用_lof_13.cpp" />
+    <ClCompile Include="构造与析构_lof_11.cpp" />
     <ClCompile Include="栈与堆_lof_2.cpp" />
-    <ClCompile Include="函数提高.cpp" />
+    <ClCompile Include="函数提高_lof_5.cpp" />
+    <ClCompile Include="point.cpp" />
+    <ClCompile Include="访问权限_lof_7.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="circle.h" />
+    <ClInclude Include="point.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -22,6 +22,12 @@
     <Filter Include="源文件\函数提高">
       <UniqueIdentifier>{45a4e4a3-5f12-4c16-9fc8-ab0a584a907a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\类和对象">
+      <UniqueIdentifier>{10d5ee00-7047-4da9-8120-d93389fdf35a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\文件操作">
+      <UniqueIdentifier>{244dd7b6-04f1-4beb-9fef-863b446b90f8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="全局区_lof_1.cpp">
@@ -36,8 +42,46 @@
     <ClCompile Include="引用_lof_4.cpp">
       <Filter>源文件\引用</Filter>
     </ClCompile>
-    <ClCompile Include="函数提高.cpp">
+    <ClCompile Include="函数提高_lof_5.cpp">
       <Filter>源文件\函数提高</Filter>
     </ClCompile>
+    <ClCompile Include="圆形与学生信息示例_lof_6.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="访问权限_lof_7.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="成员信息私有化_lof_8.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="cube_lof_9.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="circle_point_lof_10.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="point.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="circle.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="构造与析构_lof_11.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="分类与调用_lof_12.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="拷贝构造函数调用_lof_13.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="point.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="circle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
