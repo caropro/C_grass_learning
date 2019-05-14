@@ -56,7 +56,7 @@ test13 test_c()
 }
 
 
-int main()
+int main_13()
 {
 	//test_a();
 
