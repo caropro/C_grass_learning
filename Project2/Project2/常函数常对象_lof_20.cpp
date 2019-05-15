@@ -32,10 +32,10 @@ void test_func()
 	a.value_b = 222;
 
 	//常对象
-	const test_class_20 b;
-	b.value_b = 333;
-	cout << "常对象中的数值b：" << b.value_b << endl;
-	b.func_1();
+	//const test_class_20 b;
+	//b.value_b = 333;
+	//cout << "常对象中的数值b：" << b.value_b << endl;
+	//b.func_1();
 	//常对象只能调用常函数
 	//b.func_2();
 }

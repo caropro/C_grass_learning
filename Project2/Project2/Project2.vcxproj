@@ -131,6 +131,7 @@
     <ClCompile Include="全局区_lof_1.cpp" />
     <ClCompile Include="分类与调用_lof_12.cpp" />
     <ClCompile Include="初始化列表_lof_16.cpp" />
+    <ClCompile Include="友元_lof_21.cpp" />
     <ClCompile Include="圆形与学生信息示例_lof_6.cpp" />
     <ClCompile Include="常函数常对象_lof_20.cpp" />
     <ClCompile Include="引用_lof_4.cpp" />
