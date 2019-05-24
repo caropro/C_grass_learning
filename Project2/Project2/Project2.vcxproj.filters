@@ -99,6 +99,15 @@
     <ClCompile Include="友元_lof_21.cpp">
       <Filter>源文件\类和对象</Filter>
     </ClCompile>
+    <ClCompile Include="运算符重载_lof_22.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="运算符重载2_lof_23.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="重载运算符3_lof_24.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="point.h">
