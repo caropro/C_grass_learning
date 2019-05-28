@@ -105,7 +105,13 @@
     <ClCompile Include="运算符重载2_lof_23.cpp">
       <Filter>源文件\类和对象</Filter>
     </ClCompile>
-    <ClCompile Include="重载运算符3_lof_24.cpp">
+    <ClCompile Include="运算符重载3_lof_24.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="继承_lof_25.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="继承_lof_26.cpp">
       <Filter>源文件\类和对象</Filter>
     </ClCompile>
   </ItemGroup>

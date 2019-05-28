@@ -145,10 +145,12 @@
     <ClCompile Include="point.cpp" />
     <ClCompile Include="深拷贝与浅拷贝_lof_15.cpp" />
     <ClCompile Include="类和对象_对象特性_lof_17.cpp" />
+    <ClCompile Include="继承_lof_25.cpp" />
+    <ClCompile Include="继承_lof_26.cpp" />
     <ClCompile Include="访问权限_lof_7.cpp" />
     <ClCompile Include="运算符重载2_lof_23.cpp" />
     <ClCompile Include="运算符重载_lof_22.cpp" />
-    <ClCompile Include="重载运算符3_lof_24.cpp" />
+    <ClCompile Include="运算符重载3_lof_24.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="circle.h" />
