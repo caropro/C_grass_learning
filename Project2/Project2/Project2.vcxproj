@@ -147,6 +147,7 @@
     <ClCompile Include="类和对象_对象特性_lof_17.cpp" />
     <ClCompile Include="继承_lof_25.cpp" />
     <ClCompile Include="继承_lof_26.cpp" />
+    <ClCompile Include="继承_lof_27.cpp" />
     <ClCompile Include="访问权限_lof_7.cpp" />
     <ClCompile Include="运算符重载2_lof_23.cpp" />
     <ClCompile Include="运算符重载_lof_22.cpp" />
