@@ -117,6 +117,12 @@
     <ClCompile Include="继承_lof_27.cpp">
       <Filter>源文件\类和对象</Filter>
     </ClCompile>
+    <ClCompile Include="多态_lof_28.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="多态_lof_29.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="point.h">

@@ -133,6 +133,8 @@
     <ClCompile Include="初始化列表_lof_16.cpp" />
     <ClCompile Include="友元_lof_21.cpp" />
     <ClCompile Include="圆形与学生信息示例_lof_6.cpp" />
+    <ClCompile Include="多态_lof_28.cpp" />
+    <ClCompile Include="多态_lof_29.cpp" />
     <ClCompile Include="常函数常对象_lof_20.cpp" />
     <ClCompile Include="引用_lof_4.cpp" />
     <ClCompile Include="成员信息私有化_lof_8.cpp" />
