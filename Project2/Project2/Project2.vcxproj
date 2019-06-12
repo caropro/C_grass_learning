@@ -135,6 +135,7 @@
     <ClCompile Include="圆形与学生信息示例_lof_6.cpp" />
     <ClCompile Include="多态_lof_28.cpp" />
     <ClCompile Include="多态_lof_29.cpp" />
+    <ClCompile Include="多态练习_lof_32.cpp" />
     <ClCompile Include="常函数常对象_lof_20.cpp" />
     <ClCompile Include="引用_lof_4.cpp" />
     <ClCompile Include="成员信息私有化_lof_8.cpp" />
@@ -147,9 +148,11 @@
     <ClCompile Include="point.cpp" />
     <ClCompile Include="深拷贝与浅拷贝_lof_15.cpp" />
     <ClCompile Include="类和对象_对象特性_lof_17.cpp" />
+    <ClCompile Include="纯虚函数抽象类_lof_30.cpp" />
     <ClCompile Include="继承_lof_25.cpp" />
     <ClCompile Include="继承_lof_26.cpp" />
     <ClCompile Include="继承_lof_27.cpp" />
+    <ClCompile Include="虚析构与纯虚析构_lof_31.cpp" />
     <ClCompile Include="访问权限_lof_7.cpp" />
     <ClCompile Include="运算符重载2_lof_23.cpp" />
     <ClCompile Include="运算符重载_lof_22.cpp" />

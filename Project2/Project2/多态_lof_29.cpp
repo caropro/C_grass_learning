@@ -58,7 +58,7 @@ void test_29()
 }
 
 
-int main()
+int main_29()
 {
 	test_29();
 	system("pause");
