@@ -125,8 +125,10 @@
   <ItemGroup>
     <ClCompile Include="circle.cpp" />
     <ClCompile Include="circle_point_lof_10.cpp" />
+    <ClCompile Include="company_manager.cpp" />
     <ClCompile Include="cube_lof_9.cpp" />
     <ClCompile Include="new操作符_lof_3.cpp" />
+    <ClCompile Include="running.cpp" />
     <ClCompile Include="this指针_lof_19.cpp" />
     <ClCompile Include="全局区_lof_1.cpp" />
     <ClCompile Include="分类与调用_lof_12.cpp" />
@@ -141,6 +143,8 @@
     <ClCompile Include="成员信息私有化_lof_8.cpp" />
     <ClCompile Include="成员变量_成员函数_lof_18.cpp" />
     <ClCompile Include="拷贝构造函数调用_lof_13.cpp" />
+    <ClCompile Include="文件读写_lof_33.cpp" />
+    <ClCompile Include="文件读写_二进制_lof_34.cpp" />
     <ClCompile Include="构造与析构_lof_11.cpp" />
     <ClCompile Include="构造函数调用规则_lof_14.cpp" />
     <ClCompile Include="栈与堆_lof_2.cpp" />
@@ -160,7 +164,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="circle.h" />
+    <ClInclude Include="company_manager.h" />
     <ClInclude Include="point.h" />
+    <ClInclude Include="worker.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />

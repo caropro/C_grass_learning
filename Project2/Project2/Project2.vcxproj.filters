@@ -28,6 +28,12 @@
     <Filter Include="源文件\文件操作">
       <UniqueIdentifier>{244dd7b6-04f1-4beb-9fef-863b446b90f8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\文件读写">
+      <UniqueIdentifier>{9e28261e-23e3-45ca-b56c-6f27c39b2ce9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\小练习">
+      <UniqueIdentifier>{b59cb0c2-3ee6-45a4-a676-bcd9f54c251f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="全局区_lof_1.cpp">
@@ -132,6 +138,18 @@
     <ClCompile Include="多态练习_lof_32.cpp">
       <Filter>源文件\类和对象</Filter>
     </ClCompile>
+    <ClCompile Include="文件读写_lof_33.cpp">
+      <Filter>源文件\文件读写</Filter>
+    </ClCompile>
+    <ClCompile Include="文件读写_二进制_lof_34.cpp">
+      <Filter>源文件\文件读写</Filter>
+    </ClCompile>
+    <ClCompile Include="company_manager.cpp">
+      <Filter>源文件\小练习</Filter>
+    </ClCompile>
+    <ClCompile Include="running.cpp">
+      <Filter>源文件\小练习</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="point.h">
@@ -139,6 +157,12 @@
     </ClInclude>
     <ClInclude Include="circle.h">
       <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="company_manager.h">
+      <Filter>源文件\小练习</Filter>
+    </ClInclude>
+    <ClInclude Include="worker.h">
+      <Filter>源文件\小练习</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
