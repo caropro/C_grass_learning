@@ -150,6 +150,18 @@
     <ClCompile Include="running.cpp">
       <Filter>源文件\小练习</Filter>
     </ClCompile>
+    <ClCompile Include="employee.cpp">
+      <Filter>源文件\小练习</Filter>
+    </ClCompile>
+    <ClCompile Include="manager.cpp">
+      <Filter>源文件\小练习</Filter>
+    </ClCompile>
+    <ClCompile Include="boss.cpp">
+      <Filter>源文件\小练习</Filter>
+    </ClCompile>
+    <ClCompile Include="test_code.cpp">
+      <Filter>源文件\小练习</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="point.h">
@@ -162,6 +174,15 @@
       <Filter>源文件\小练习</Filter>
     </ClInclude>
     <ClInclude Include="worker.h">
+      <Filter>源文件\小练习</Filter>
+    </ClInclude>
+    <ClInclude Include="employee.h">
+      <Filter>源文件\小练习</Filter>
+    </ClInclude>
+    <ClInclude Include="manager.h">
+      <Filter>源文件\小练习</Filter>
+    </ClInclude>
+    <ClInclude Include="boss.h">
       <Filter>源文件\小练习</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,6 +1,10 @@
 #include "company_manager.h"
 
-int main()
+
+
+
+
+int main_xx()
 {
 	manage_system ms;
 	int choice = 0;

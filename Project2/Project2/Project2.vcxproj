@@ -123,12 +123,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="boss.cpp" />
     <ClCompile Include="circle.cpp" />
     <ClCompile Include="circle_point_lof_10.cpp" />
     <ClCompile Include="company_manager.cpp" />
     <ClCompile Include="cube_lof_9.cpp" />
+    <ClCompile Include="employee.cpp" />
+    <ClCompile Include="manager.cpp" />
     <ClCompile Include="new操作符_lof_3.cpp" />
     <ClCompile Include="running.cpp" />
+    <ClCompile Include="test_code.cpp" />
     <ClCompile Include="this指针_lof_19.cpp" />
     <ClCompile Include="全局区_lof_1.cpp" />
     <ClCompile Include="分类与调用_lof_12.cpp" />
@@ -163,8 +167,11 @@
     <ClCompile Include="运算符重载3_lof_24.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="boss.h" />
     <ClInclude Include="circle.h" />
     <ClInclude Include="company_manager.h" />
+    <ClInclude Include="employee.h" />
+    <ClInclude Include="manager.h" />
     <ClInclude Include="point.h" />
     <ClInclude Include="worker.h" />
   </ItemGroup>
