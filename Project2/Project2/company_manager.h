@@ -27,6 +27,20 @@ public:
 	int get_EmpNum();
 	//初始化员工，从文件读取信息，创建员工信息数组
 	void init_Emp();
+	//显示职工
+	void Show_Emp();
+	//删除职工
+	void Del_Emp();
+	//判断当前员工编号是否存在，存在返回数组位置，不存在返回-1
+	int IsExist(int id);
+	//修改员工信息
+	void Mod_Emp();
+	//查找员工
+	void Find_Emp();
+	//员工排序
+	void Sort_Emp();
+	//清空文件
+	void Clean_File();
 
 	//----------属性部分-------------
 	//记录职工人数
@@ -35,5 +49,6 @@ public:
 	worker** m_EmpArray;
 	//标记文件是否为空
 	bool m_FileIsEmpty;
+
 
 };

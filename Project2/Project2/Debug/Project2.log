@@ -1,2 +1,52 @@
-﻿  test_code.cpp
-  Project2.vcxproj -> D:\C_grass_learning\Project2\Debug\Project2.exe
+﻿  boss.cpp
+  circle.cpp
+  circle_point_lof_10.cpp
+  company_manager.cpp
+D:\C_grass_learning\Project2\Project2\company_manager.cpp(362,64): error C3867:  “worker::getDepName”: 非标准语法；请使用 "&" 来创建指向成员的指针
+  cube_lof_9.cpp
+  employee.cpp
+  manager.cpp
+  new操作符_lof_3.cpp
+  point.cpp
+  running.cpp
+  test_code.cpp
+  this指针_lof_19.cpp
+  全局区_lof_1.cpp
+  函数提高_lof_5.cpp
+  分类与调用_lof_12.cpp
+  初始化列表_lof_16.cpp
+  友元_lof_21.cpp
+  圆形与学生信息示例_lof_6.cpp
+  多态_lof_28.cpp
+  多态_lof_29.cpp
+  正在生成代码...
+  正在编译...
+  多态练习_lof_32.cpp
+  常函数常对象_lof_20.cpp
+  引用_lof_4.cpp
+  成员信息私有化_lof_8.cpp
+  成员变量_成员函数_lof_18.cpp
+  拷贝构造函数调用_lof_13.cpp
+  文件读写_lof_33.cpp
+  文件读写_二进制_lof_34.cpp
+  构造与析构_lof_11.cpp
+  构造函数调用规则_lof_14.cpp
+  栈与堆_lof_2.cpp
+  深拷贝与浅拷贝_lof_15.cpp
+  类和对象_对象特性_lof_17.cpp
+D:\C_grass_learning\Project2\Project2\company_manager.cpp(504,12): error C3867:  “std::basic_ofstream<char,std::char_traits<char>>::close”: 非标准语法；请使用 "&" 来创建指向成员的指针
+  纯虚函数抽象类_lof_30.cpp
+  继承_lof_25.cpp
+  继承_lof_26.cpp
+  继承_lof_27.cpp
+  虚析构与纯虚析构_lof_31.cpp
+  访问权限_lof_7.cpp
+  运算符重载2_lof_23.cpp
+  正在生成代码...
+  正在编译...
+  运算符重载3_lof_24.cpp
+  运算符重载_lof_22.cpp
+  正在生成代码...
+D:\C_grass_learning\Project2\Project2\类和对象_对象特性_lof_17.cpp(46,16): warning C4101:  “t2”: 未引用的局部变量
+D:\C_grass_learning\Project2\Project2\类和对象_对象特性_lof_17.cpp(46,16): warning C4101: D:\C_grass_learning\Project2\Project2\栈与堆_lof_2.cpp(9) : warning C4172: 返回局部变量或临时变量的地址: a
+D:\C_grass_learning\Project2\Project2\类和对象_对象特性_lof_17.cpp(46,16): warning C4101: D:\C_grass_learning\Project2\Project2\引用_lof_4.cpp(16) : warning C4172: 返回局部变量或临时变量的地址: a
